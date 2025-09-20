@@ -3,6 +3,11 @@
 
 This project develops a predictive model to identify sleep disorders—including insomnia, sleep apnea, and hypersomnia—based on health and behavioral data. It aims to provide actionable insights for healthcare professionals to understand patterns affecting sleep health.
 
+<p align="center">
+  <img src="" alt="Image" width="400"/>
+</p>
+
+
 ## Overview
 
 Problem: Sleep disorders are increasingly common, but early detection is often difficult. The goal is to predict the likelihood of a disorder using behavioral and health-related features.
