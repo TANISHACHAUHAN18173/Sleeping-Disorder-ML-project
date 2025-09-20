@@ -4,7 +4,7 @@
 This project develops a predictive model to identify sleep disorders—including insomnia, sleep apnea, and hypersomnia—based on health and behavioral data. It aims to provide actionable insights for healthcare professionals to understand patterns affecting sleep health.
 
 <p align="center">
-  <img src="" alt="Image" width="400"/>
+  <img src="https://github.com/TANISHACHAUHAN18173/Sleeping-Disorder-ML-project/blob/main/WhatsApp%20Image%202025-09-17%20at%2020.20.08.jpeg" alt="Image" width="400"/>
 </p>
 
 
